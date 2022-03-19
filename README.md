@@ -1,16 +1,1 @@
-# flutter_fashion_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="371" alt="homepage" src="https://user-images.githubusercontent.com/65565581/159137141-4cdb0aa7-3770-4639-a9be-9585230a1ac6.png">             <img width="372" alt="details" src="https://user-images.githubusercontent.com/65565581/159137156-1ec4b58a-07b9-46bb-bf44-3a5a4f6a0661.png">
